@@ -3,6 +3,16 @@ body {
 }
 
 h1{
-    font-size: 20 px;
+font-size: 20 px;
  color: white;
+}
+
+.paragrafo-1{
+ color: black;
+}
+.subtitulo{
+ color:blueviolet;
+}
+.listas{
+  color:cadetblue;
 }
