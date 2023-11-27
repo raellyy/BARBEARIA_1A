@@ -1,3 +1,7 @@
+header
+{background-color: black;
+color:white;
+}
 body {
        background-color: red;
 }
@@ -15,4 +19,8 @@ font-size: 20 px;
 }
 .listas{
   color:cadetblue;
+}
+footer{
+  background-color: black;
+  color: white;
 }
