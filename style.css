@@ -1,9 +1,11 @@
-header
-{background-color: palevioletred;
+header{
+  background-color: palevioletred;
 color:white;
 }
+
 body {
-       background-color: red;
+      background-color: red;
+      color:black;
 }
 
 h1{
